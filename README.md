@@ -12,7 +12,6 @@ This repository documents my learning and implementation of core machine learnin
 - Support Vector Machines (SVM)
 - K-Means Clustering
 - Principal Component Analysis (PCA)
-- Neural Networks *(coming soon)*
 
 ## Tools & Libraries
 
